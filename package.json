@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/vClausingLage/scriptdown/issues"
   },
-  "homepage": "https://github.com/vClausingLage/scriptdown#readme",
+  "homepage": "https://github.com/vClausingLage/scriptdown",
   "dependencies": {
     "iink-js": "^1.5.4"
   }
