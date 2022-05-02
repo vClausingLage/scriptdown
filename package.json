@@ -1,0 +1,22 @@
+{
+  "name": "scriptdown",
+  "version": "1.0.0",
+  "description": "Create handwritten markdown documents.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vClausingLage/scriptdown.git"
+  },
+  "author": "vincent clausing-lage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vClausingLage/scriptdown/issues"
+  },
+  "homepage": "https://github.com/vClausingLage/scriptdown#readme",
+  "dependencies": {
+    "iink-js": "^1.5.4"
+  }
+}
